@@ -14,7 +14,7 @@ Hey there! I'm Ricardo Arath, currently pursuing my Computer Science Engineering
 - Always up for a challenge and working with awesome people!
 
 ## 🌟 Favorite Project: Hospital Regio
-One of my proudest achievements is [Hospital Regio]([#](https://github.com/RicardoArath/FinalProject-AdvancedDataBases)), a full stack project built with Flask, Jinja2, and JavaScript, focusing on advanced database design. This project pushed my boundaries and taught me the power of collaboration, learning, and persistence.
+One of my proudest achievements is [Hospital Regio]([https://github.com/RicardoArath/FinalProject-AdvancedDataBases]), a full stack project built with Flask, Jinja2, and JavaScript, focusing on advanced database design. This project pushed my boundaries and taught me the power of collaboration, learning, and persistence.
 
 ## 🎮 Fun Facts
 - Started coding thanks to Minecraft—those commands were my gateway!
