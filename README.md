@@ -1,7 +1,5 @@
 # 👋 Hola! I'm Ricardo Arath
 
-Welcome to my GitHub profile! 🚀
-
 ## 👨‍💻 About Me
 Hey there! I'm Ricardo Arath, currently pursuing my Computer Science Engineering degree at **Universidad de Monterrey (UDEM)**. My passion for tech started early—cracking games, fixing laptops, and exploring the insides of old phones. My coding journey began with **Minecraft commands** (yes, really!) and grew into a love for programming when I wrote my first lines of code at age 15. Since then, I've been all about creating, learning, and helping others through technology.
 
